@@ -1,0 +1,205 @@
+{
+  "total_holders": "158",
+  "holders": [
+    {
+      "address": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+      "balance": "937391042.072817",
+      "percentage": 93.82
+    },
+    {
+      "address": "H5UbSGtWcFhouK6NGQ9iM2sKz46hSQ8bnPsrySGK8ozS",
+      "balance": "10806010.454413",
+      "percentage": 1.08
+    },
+    {
+      "address": "5quywfSNAbL1sFQiT5Dyy7MHaA65eFdeQmGhQiTR8FoV",
+      "balance": "8719614.961523",
+      "percentage": 0.87
+    },
+    {
+      "address": "BYJWYjy76V6GYZQ7Sx1en9Yt76F4kvaGJV5Vh5AmJMyw",
+      "balance": "6034131.823651",
+      "percentage": 0.6
+    },
+    {
+      "address": "5wbjhSUfZNZCu3YodLKfXjLruFSW4USCX7RRGhLNu11q",
+      "balance": "3626772.733566",
+      "percentage": 0.36
+    },
+    {
+      "address": "8XcHFXJDHgz9Mi6ykBnszHok1HrtxuK7ZtsT6MudeAFy",
+      "balance": "2134347",
+      "percentage": 0.21
+    },
+    {
+      "address": "24coCh4ni8Q5ntLNGdyyjqNRuXKjdiLt8ZywJVCJQk9w",
+      "balance": "2127279.960747",
+      "percentage": 0.21
+    },
+    {
+      "address": "45ruCyfdRkWpRNGEqWzjCiXRHkZs8WXCLQ67Pnpye7Hp",
+      "balance": "2121704.939393",
+      "percentage": 0.21
+    },
+    {
+      "address": "H3JnWaTULx3kH9BabYHYLuoaRnZaS6PauqkCPTLnNzUC",
+      "balance": "1556571.707554",
+      "percentage": 0.15
+    },
+    {
+      "address": "GQ6CfJwXvJ9xWgJ2bXpq1hfKmaYF7RpjiZDLh5QZqVCr",
+      "balance": "1500000",
+      "percentage": 0.15
+    },
+    {
+      "address": "9n9gvYPSqDNcF9STxRf4kzWEQDXvcEWbgQj9z2UX2YhF",
+      "balance": "1464792.356033",
+      "percentage": 0.14
+    },
+    {
+      "address": "91qdnvaddRsvcrra4fRFesb8raAqds5p4yV2V87ixAzi",
+      "balance": "1304157.851371",
+      "percentage": 0.13
+    },
+    {
+      "address": "Da17T3xeaXnoYPwc4dzMcAKyp3MpBcnVuKGTSM3ni6tx",
+      "balance": "1149985.185227",
+      "percentage": 0.11
+    },
+    {
+      "address": "8xbQw5ErXWm8gnYBveJbtz5RSXv6PRbeHKtGiTeAdYqX",
+      "balance": "1024530.468255",
+      "percentage": 0.1
+    },
+    {
+      "address": "iiAw2xrR4TyAfuUbbSKWNJzxPjfcXVBtx2GKDCbA6LM",
+      "balance": "1000000",
+      "percentage": 0.1
+    },
+    {
+      "address": "9QSYjufBvb6Hp8X1f3Bfk5UkvPTY3E68ypU5YWU3eqfT",
+      "balance": "994185.155257",
+      "percentage": 0.09
+    },
+    {
+      "address": "HMVogJBcdLd8nUTQYV7DSxE5NGBnktKimmnN7miy7b95",
+      "balance": "918240.163383",
+      "percentage": 0.09
+    },
+    {
+      "address": "53LsXN7qhwZes7HX5HeMwrPH1G1hhRqtMLDzRXZgbfnK",
+      "balance": "800586.956921",
+      "percentage": 0.08
+    },
+    {
+      "address": "5gDusnRsHE52nvt41mBJ96FBfXeneMLgeLFrexnVJcN2",
+      "balance": "779689.64464",
+      "percentage": 0.07
+    },
+    {
+      "address": "DJj3Y3P6wVGgAANnnTDH77qotJ2QdZc961Mdkt6LvXau",
+      "balance": "709659.990587",
+      "percentage": 0.07
+    },
+    {
+      "address": "2qZVthPgZpcEZzJihYVBnrKPh4d4PBmpPeo5495sh3k2",
+      "balance": "652502.689227",
+      "percentage": 0.06
+    },
+    {
+      "address": "4RSnDYdowNagD9S38tWULT8wuwzdyJjeVJFPHjFJAfSg",
+      "balance": "630909.33821",
+      "percentage": 0.06
+    },
+    {
+      "address": "4rduCG4cfqwgNiTSVNUdTAmbmtCmh42vV2TKuVjB9pwv",
+      "balance": "528862.058705",
+      "percentage": 0.05
+    },
+    {
+      "address": "BVrmA9av68FL6NVVEoJvzuDYQppMtJ685feR6TCqgE6J",
+      "balance": "516291.524112",
+      "percentage": 0.05
+    },
+    {
+      "address": "CtXgUfqommsuBVcffPuX2J9pnmZvHB1hpAsxbajSyRuC",
+      "balance": "465977.080372",
+      "percentage": 0.04
+    },
+    {
+      "address": "HqiHTYmqGQKwXkqHe2HnDnxnAHKJnpL6SnH2Yx3rVvhu",
+      "balance": "447027.885637",
+      "percentage": 0.04
+    },
+    {
+      "address": "GCUKTkuDn34FCQDQ3rPrrBjJAxAK5RrmU5pMeJ2V9pbf",
+      "balance": "433924.766447",
+      "percentage": 0.04
+    },
+    {
+      "address": "G2jhc2qdTP3UANZXirCPqzRTcqGATYiyVpcBnBgeFacr",
+      "balance": "399727.813597",
+      "percentage": 0.04
+    },
+    {
+      "address": "4mBGQrUDoAVKxUyBxStvQNDk6ux6C1YEomajtX9FvZuA",
+      "balance": "376224.030895",
+      "percentage": 0.03
+    },
+    {
+      "address": "EzNdB1pXhg85P22coPLf5ZvHWnUVRyixV4FvkTAneHBS",
+      "balance": "348550.77375",
+      "percentage": 0.03
+    },
+    {
+      "address": "AMHSZbg1QPEXV2YD2QZXFsMz9ext7dnfFbLFhs3zC8pA",
+      "balance": "288441.015742",
+      "percentage": 0.02
+    },
+    {
+      "address": "45ruCyfdRkWpRNGEqWzjCiXRHkZs8WXCLQ67Pnpye7Hp",
+      "balance": "274389.019926",
+      "percentage": 0.02
+    },
+    {
+      "address": "3s4VcJ8zxM6yYNfBSysunemz5M5MqYaMAeHfLdsRfcpW",
+      "balance": "268395.276878",
+      "percentage": 0.02
+    },
+    {
+      "address": "AaH5TYLWrZkoebxDqXXgZLxHT2GRN2MngAKfeESNBfWg",
+      "balance": "266898.365347",
+      "percentage": 0.02
+    },
+    {
+      "address": "863ucTtjL2afNxH1kuspSnBY4LYUNr7KhdAhhD4R8aPF",
+      "balance": "234710.102567",
+      "percentage": 0.02
+    },
+    {
+      "address": "9jVvWYesMw7heGtR8t3CmhecursqWTx73RPk7dz9UN6J",
+      "balance": "228087.139773",
+      "percentage": 0.02
+    },
+    {
+      "address": "E72kFX8fJqW9vt4pGw6LCN7ojatMeHZuQcCYX5BxzzTS",
+      "balance": "225690.054775",
+      "percentage": 0.02
+    },
+    {
+      "address": "8mpurGgNmLAVNtTNqsHdZftBgM73xfdHLSY1JsMoa9St",
+      "balance": "217699.800714",
+      "percentage": 0.02
+    },
+    {
+      "address": "Ge1xzYAa1fzAdKtJBQtbK4rcxatDXbEM5EjAzhe64NJG",
+      "balance": "204509.322589",
+      "percentage": 0.02
+    },
+    {
+      "address": "BUE1y4UxXRaciTVfVdKijrEDKeLQxoKmJMh52uqDzHfP",
+      "balance": "200152.419396",
+      "percentage": 0.02
+    }
+  ]
+}
