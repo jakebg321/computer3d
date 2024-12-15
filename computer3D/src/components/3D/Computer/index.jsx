@@ -1,6 +1,6 @@
 ﻿import { useRef, useState, useEffect } from 'react';
 import { useFrame } from '@react-three/fiber';
-import Monitor from './Monitor';
+import Monitor from './Monitor'; ////update theis to make render happy
 import Case from './Case';
 import Keyboard from './Keyboard';
 import { parseCoinMatchLog } from '../../../utils/parser';
