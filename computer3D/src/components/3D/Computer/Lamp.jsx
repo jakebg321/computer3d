@@ -24,7 +24,7 @@ const Lamp = () => {
   };
 
   // Calculate position on table surface (using same logic as keyboard)
-  const TABLE_BASE_Y = -2.3;
+  const TABLE_BASE_Y = -3.5;
   const TABLE_HEIGHT = 0.8;
   const TABLE_SURFACE_Y = TABLE_BASE_Y + (TABLE_HEIGHT / 2);
   

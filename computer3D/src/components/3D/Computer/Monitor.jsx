@@ -40,7 +40,7 @@ const Monitor = ({ activeView }) => {
       </mesh>
 
       {/* Inset Screen Area (Dark Frame) */}
-      <mesh position={[0, 0, SCREEN.depth/2 - 0.05]}>
+      <mesh position={[0, , SCREEN.depth/2 - 0.05]}>
         <boxGeometry args={[screenWidth + 0.4, screenHeight + 0.4, 0.1]} />
         <meshStandardMaterial 
           color="#121212"

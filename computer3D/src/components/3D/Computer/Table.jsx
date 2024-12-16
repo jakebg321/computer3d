@@ -14,7 +14,7 @@ const Table = () => {
   };
 
   // Fixed table position - no mobile adjustments
-  const tableTopY = -2.3;
+  const tableTopY = -3.5;
   const tableLegY = tableTopY - TABLE.legHeight / 2;
 
   const retroMaterial = {
